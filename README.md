@@ -2,7 +2,7 @@
 
 如果你想知道为何最终这么封装的过程和思路，请看：
 
-简书地址：https://www.jianshu.com/p/668f5e8c519d
+简书地址：https://www.jianshu.com/p/c3161e771584
 
 
 如果你不想知道的话，也可以直接下载matrix-mvp的Module直接使用，
